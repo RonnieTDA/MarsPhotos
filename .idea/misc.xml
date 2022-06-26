@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/drawable/ic_broken_image.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/drawable/ic_connection_error.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/drawable/loading_img.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/DELL-14-3467/Desktop/android-basics-kotlin-mars-photos-app-main/app/src/main/res/layout/grid_view_item.xml" value="0.16032608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
